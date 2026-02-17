@@ -1,13 +1,12 @@
 # Hi, I'm Nehith Sai Vemulapalli 👋
 
-Master's graduate in Robotics & AI from UCL, specializing in 3D Reconstruction, 
-SLAM, and Multi-Agent Systems. Published author with 6 papers (4 peer-reviewed), 
-bridging theoretical algorithm design with practical ROS2 implementation.
+Master's graduate in Robotics & AI from UCL, specializing in 3D Reconstruction, SLAM, and Multi-Agent Systems. Published author with 6 papers (4 peer-reviewed), bridging theoretical algorithm design with practical ROS2 implementation.
 
-🔭 Currently working on hybrid 3D reconstruction pipelines and self-reconfigurable robots  
-🌱 Exploring next-generation neural rendering and autonomous systems  
+🎓 Recent MSc graduate in Robotics & AI from UCL  
+🔭 Currently exploring Isaac Sim and autonomous systems deployment  
+👀 Actively looking for roles in Robotics, Computer Vision, and AI Research  
 📍 Based in London, UK  
-📫 Reach me at vemulapallinehith@gmail.com  
+📫 Reach me at vemulapallinehith@gmail.com
 
 ---
 
@@ -17,6 +16,9 @@ bridging theoretical algorithm design with practical ROS2 implementation.
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat&logoColor=white)
 ![PyBullet](https://img.shields.io/badge/PyBullet-3776AB?style=flat&logoColor=white)
+![Webots](https://img.shields.io/badge/Webots-007ACC?style=flat&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
 ### Computer Vision & SLAM
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -27,17 +29,19 @@ bridging theoretical algorithm design with practical ROS2 implementation.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## �publications Research Publications
+## 📄 Research Publications
 
 **Peer-Reviewed:**
 - Vemulapalli, N. S. (2025). Strategic Network Intervention: Simulating and Blocking Contagion Spread Using Dominating Sets. *World Congress on Smart Computing*, pp. 109–122.
