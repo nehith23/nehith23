@@ -1,11 +1,11 @@
 # Hi, I'm Nehith Sai Vemulapalli 👋
 ## Master's graduate in Robotics & AI from UCL, specializing in 3D Reconstruction, SLAM, and Multi-Agent Systems. Published author with 4 peer-reviewed papers, bridging theoretical algorithm design with practical ROS2 implementation.
 
-##🎓 Recent MSc graduate in Robotics & AI from UCL  
-##🔭 Currently exploring robotics perception and sim-to-real transfer 
-##👀 Actively looking for roles in Robotics, Computer Vision, and AI Research  
-##📍 Based in London, UK  
-##📫 Reach me at [vemulapallinehith@gmail.com](mailto:vemulapallinehith@gmail.com)
+🎓 Recent MSc graduate in Robotics & AI from UCL  
+🔭 Currently exploring robotics perception and sim-to-real transfer 
+👀 Actively looking for roles in Robotics, Computer Vision, and AI Research  
+📍 Based in London, UK  
+📫 Reach me at [vemulapallinehith@gmail.com](mailto:vemulapallinehith@gmail.com)
 ---
 ## 🛠️ Tech Stack
 ### Robotics & Simulation
